@@ -1,1 +1,2 @@
-# cw1
+# Lidia Opuchlik
+# ćwiczenia 1
